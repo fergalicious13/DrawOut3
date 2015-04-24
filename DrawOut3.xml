@@ -112,24 +112,24 @@
                                                       <block type="oled_setcursor" id="85" inline="true">
                                                         <value name="STARTX">
                                                           <block type="math_number" id="86">
-                                                            <field name="NUM">56</field>
+                                                            <field name="NUM">0</field>
                                                           </block>
                                                         </value>
                                                         <value name="STARTY">
                                                           <block type="math_number" id="87">
-                                                            <field name="NUM">10</field>
+                                                            <field name="NUM">0</field>
                                                           </block>
                                                         </value>
                                                         <next>
                                                           <block type="oled_setend" id="88" inline="true">
                                                             <value name="ENDX">
                                                               <block type="math_number" id="89">
-                                                                <field name="NUM">10</field>
+                                                                <field name="NUM">0</field>
                                                               </block>
                                                             </value>
                                                             <value name="ENDY">
                                                               <block type="math_number" id="90">
-                                                                <field name="NUM">10</field>
+                                                                <field name="NUM">0</field>
                                                               </block>
                                                             </value>
                                                             <next>
